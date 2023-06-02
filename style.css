@@ -19,8 +19,6 @@ main {
     height: 100vh;
     background: url('./assets/fundo.svg') no-repeat center top;
     background-size: contain;
-
-    border: 3px solid blue;
 }
 
 div {
@@ -29,28 +27,20 @@ div {
     justify-content: center;
 
     margin: 0 auto;
-
-    border: 1px solid black;
 }
 
 .line_01 {
     width: 100vh;
-
-    border: 1px solid red;
 }
 
 .line_02 {
     width: 100vh;
 
-    margin: 18vh;
-
-    border: 1px solid red;
+    margin: 18vh 0;
 }
 
 .line_03 {
     width: 100vh;
-
-    border: 1px solid red;
 }
 
 .hole {
@@ -61,8 +51,6 @@ img {
     position: absolute;
     display: none;
     width: 20vh;
-
-    border: 1px solid green;
 }
 
 .toupeira06 {
